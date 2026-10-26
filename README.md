@@ -146,6 +146,7 @@ The dashboard provides a comprehensive view of OPay wallet and savings account a
 
 ## Conclusion
 This analysis provides valuable insights into personal financial behavior across wallet and savings accounts. While transaction activity is high and consistent, spending patterns—particularly on utilities—limit overall financial growth.
+
 By adopting better budgeting strategies and maintaining consistent savings habits, there is strong potential to improve financial stability and achieve sustainable growth.
 
 ---
@@ -165,5 +166,3 @@ Feel free to reach out for feedback, collaboration, or project discussions.
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oyedele-samuel-53579b19b)
     
     Email: samueloyedele15@gmail.com
-
-  
