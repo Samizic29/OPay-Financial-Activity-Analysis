@@ -30,7 +30,7 @@ The financial dataset consists of two Excel sheets:
 ## Data Preparation
 The dataset was imported into Excel and processed using **Power Query** to ensure consistency, accuracy, and readiness for analysis.
 
-< img src = "OPay-Financial-Activity-Analysis/Data Preparation and Analysis/Import Data(Power Query).png" width = "100%" >
+<img width="901" height="481" alt="Import Data(Power Query)" src="https://github.com/user-attachments/assets/a5214763-ece2-488e-bf4b-84bd49827250" />
 
 ---
 
@@ -40,6 +40,8 @@ Using Power Query:
 - Ensured consistency across both wallet and savings datasets
 - Handled missing or inconsistent values where necessary
 - Create a data table (calendar) for time intelligence
+
+<img width="989" height="455" alt="Data Cleaned(Power Query)" src="https://github.com/user-attachments/assets/00e9b91b-6c5a-46cf-acbc-984d73365b93" />
 
 ---
 
@@ -53,11 +55,15 @@ Examples include:
   
 This improved the clarity and depth of analysis.
 
+<img width="750" height="480" alt="Transaction Type (feature engineering)" src="https://github.com/user-attachments/assets/1f5ac9c8-ea50-4056-97e9-54c85e30f8e4" />
+
 ---
 
 ## Data Modeling
 Using Power Pivot, create a relationship between the tables with the data table (calendar) for time intelligence.
 This allows seamless data filters.
+
+<img width="570" height="503" alt="Data Modeling" src="https://github.com/user-attachments/assets/6d3b00eb-d0d0-4f53-9c04-47b0af68790d" />
 
 ---
 
@@ -68,6 +74,8 @@ Pivot Tables were used to explore performance and uncover insights, including:
 - Total **transaction counts** across both accounts
 - Category-level spending and saving patterns
 - Create KPIs for the both accounts
+  
+<img width="795" height="559" alt="Wallet Transaction Analysis" src="https://github.com/user-attachments/assets/993b03b5-b52e-4357-9486-26f8219a2d71" />
 
 ---
 
@@ -95,12 +103,13 @@ The dashboard provides a comprehensive view of OPay wallet and savings account a
 ### Wallet Account Transaction Overview Dashboard
 > Tracks wallet inflows and outflows to understand spending behavior and cash flow patterns.
 
-<img width="992" height="45" alt="image" src="https://github.com/user-attachments/assets/b0a1c825-fdea-4877-82a0-eaba3552dda0" />
+<img width="2805" height="1907" alt="Opay Wallet Dashboard" src="https://github.com/user-attachments/assets/caaee588-16e3-4a67-bdd7-f2daaed52d24" />
+
 
 ### Savings Account Performance Analysis Dashboard
 > Analyze deposits, withdrawals, and net growth to evaluate savings performance over time.
 
-<img width="976" height="45" alt="image" src="https://github.com/user-attachments/assets/be5dd703-49f7-44d2-8161-ae3d17f37db7" />
+<img width="2805" height="1907" alt="Opay Savings Dashboard" src="https://github.com/user-attachments/assets/3c0328c0-d5ec-429f-af50-3bc1ff3af2ba" />
 
 ---
 
