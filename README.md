@@ -77,6 +77,8 @@ Pivot Tables were used to explore performance and uncover insights, including:
   
 <img width="795" height="559" alt="Wallet Transaction Analysis" src="https://github.com/user-attachments/assets/993b03b5-b52e-4357-9486-26f8219a2d71" />
 
+<img width="1204" height="467" alt="Saving Transaction Analysis" src="https://github.com/user-attachments/assets/ccbe4049-cd25-4e33-b9c0-deb97eee7435" />
+
 ---
 
 ## Dashboard Overview	
@@ -124,12 +126,12 @@ The dashboard provides a comprehensive view of OPay wallet and savings account a
 - Most transactions were conducted via **mobile channels**, indicating high digital usage.
   
 💰 **Savings Account**
-•	Recorded **574 transactions**, including **395 deposits** and **179 withdrawals**. 
-•	Total Deposits: **₦607.10K**, Total Withdrawals: **₦589.54K**, with a **net growth of ₦17.56K**. 
-•	**November** recorded the highest deposits and withdrawals but showed relatively low net growth. 
-•	**December** had no withdrawal transactions, indicating strong saving behavior. 
-•	**Q4 had the highest transaction volume**, while **Q1 recorded the highest net savings growth**. 
-•	Net savings growth fluctuated throughout the year, reflecting inconsistent saving patterns. 
+- Recorded **574 transactions**, including **395 deposits** and **179 withdrawals**.
+- Total Deposits: **₦607.10K**, Total Withdrawals: **₦589.54K**, with a **net growth of ₦17.56K**.
+- **November** recorded the highest deposits and withdrawals but showed relatively low net growth.
+- **December** had no withdrawal transactions, indicating strong saving behavior.
+- **Q4 had the highest transaction volume**, while **Q1 recorded the highest net savings growth**.
+- Net savings growth fluctuated throughout the year, reflecting inconsistent saving patterns. 
 
 ---
 
