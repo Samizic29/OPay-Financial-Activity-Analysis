@@ -30,8 +30,7 @@ The financial dataset consists of two Excel sheets:
 ## Data Preparation
 The dataset was imported into Excel and processed using **Power Query** to ensure consistency, accuracy, and readiness for analysis.
 
-![Import Data](Data Preparation and Analysis/Import Data(Power Query).png)
-
+< img src = "Data Preparation and Analysis/Import Data(Power Query).png" width = "100%" >
 
 ---
 
