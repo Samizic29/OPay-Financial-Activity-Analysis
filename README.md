@@ -30,7 +30,7 @@ The financial dataset consists of two Excel sheets:
 ## Data Preparation
 The dataset was imported into Excel and processed using **Power Query** to ensure consistency, accuracy, and readiness for analysis.
 
-< img src = "Data Preparation and Analysis/Import Data(Power Query).png" width = "100%" >
+< img src = "OPay-Financial-Activity-Analysis/Data Preparation and Analysis/Import Data(Power Query).png" width = "100%" >
 
 ---
 
