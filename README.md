@@ -30,6 +30,8 @@ The financial dataset consists of two Excel sheets:
 ## Data Preparation
 The dataset was imported into Excel and processed using **Power Query** to ensure consistency, accuracy, and readiness for analysis.
 
+![Opay-Financial-Activity-Analysis](Import Data(Power Query).png)
+
 ---
 
 ## Data Cleaning and Transformation
