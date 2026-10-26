@@ -136,11 +136,11 @@ The dashboard provides a comprehensive view of OPay wallet and savings account a
 ---
 
 ## Recommendations
-- Control High Utility Spending: Since electricity accounts for a large portion of expenses, consider budgeting or monitoring usage to reduce costs.
-- Leverage High-Income Periods: Months like November with high inflows can be optimized by allocating more funds to savings or investments.
-- Improve Savings Consistency: The fluctuation in savings growth suggests the need for more structured saving habits, such as automated savings plans.
-- Encourage Financial Discipline: Maintaining months like December (with zero withdrawals) can significantly improve long-term financial stability.
-- Monitor Cash Flow Balance: With wallet credits and debits nearly equal, better expense tracking can help increase net balance over time.  
+- **Control High Utility Spending**: Since electricity accounts for a large portion of expenses, consider budgeting or monitoring usage to reduce costs.
+- **Leverage High-Income Periods**: Months like November with high inflows can be optimized by allocating more funds to savings or investments.
+- **Improve Savings Consistency**: The fluctuation in savings growth suggests the need for more structured saving habits, such as automated savings plans.
+- **Encourage Financial Discipline**: Maintaining months like December (with zero withdrawals) can significantly improve long-term financial stability.
+- **Monitor Cash Flow Balance**: With wallet credits and debits nearly equal, better expense tracking can help increase net balance over time.  
 
 ---
 
